@@ -48,3 +48,5 @@ config.local
 
 # Logs
 *.log
+
+.DS_Store
